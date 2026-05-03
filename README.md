@@ -2,7 +2,6 @@
 
 End-to-end analysis of 190,000+ FMCG sales records across brands, regions and channels from 2022 to 2024.
 
----
 
 ## Tools Used
 - **Python** — Pandas, Matplotlib, Seaborn
